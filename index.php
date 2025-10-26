@@ -1,6 +1,6 @@
 <?php
- // Your variables with emojis!
- $title = "My␣PHP␣Webpage␣";
+// Your variables with emojis!
+ $title = "I Change My Web Page";
  $message = "Created␣by␣Ashini␣";
  ?>
  <!DOCTYPE html>
